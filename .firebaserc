@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "test-a48ed": {
+      "hosting": {
+        "Color-Game-angular": [
+          "test-a48ed"
+        ]
+      }
+    }
+  }
+}
